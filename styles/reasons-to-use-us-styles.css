@@ -1,0 +1,21 @@
+.main-body > .reasons-to-use-us{
+    font-family: 'Roboto', sans-serif;
+    color:yellow;
+    background-color: royalblue;
+    font-size: 2em;
+}
+.main-body > .reasons-to-use-us > .deliver{
+    border-style: solid;
+    border-width: 1px;
+    text-align:left;
+}
+.main-body > .reasons-to-use-us > .used-stuff{
+    border-style: solid;
+    border-width: 1px;
+    text-align:center;
+}
+.main-body > .reasons-to-use-us > .sanitized{
+    border-style: solid;
+    border-width: 1px;
+    text-align:right;
+}

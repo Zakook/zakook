@@ -1,0 +1,27 @@
+body{
+    margin:0px;
+}
+
+a:link{
+    color:orangered;
+}
+
+a:hover{
+    color:yellow;
+
+    border-color: orange;
+    border-width: 5px;
+    letter-spacing: 1px;
+
+    transition: 0.5s;
+}
+
+a:visited{
+    color:orangered;
+}
+
+a{
+    font-size: 2em;
+    text-decoration: none;
+    transition: 0.5s;
+}
