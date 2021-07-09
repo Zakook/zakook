@@ -26,12 +26,13 @@
 }
 
 .reviews > .actual-reviews{
-    width:1000px;
+    width:100%;
     display: flex;
     justify-content: space-between;
 
     border-color: black;
     border-width: 10px;
+    align-items: center;
 }
 
 .reviews > .actual-reviews > .fake-review{
@@ -39,4 +40,5 @@
     border-width: 1px;
     border-color: black;
     text-align: center;
+    align-items: center;
 }
