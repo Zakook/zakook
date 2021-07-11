@@ -1,0 +1,41 @@
+.top-banner{
+    display:flex;
+    
+    height: 140px;
+    align-items: center;
+
+    justify-content: space-around;
+}
+
+
+.top-banner > .title{
+    font-family: 'Otomanopee One', sans-serif;
+
+    color:blue;
+    font-size:2em;
+}
+.banner-links a{
+    width:fit-content;
+    display: flex;
+    justify-content: center;
+}
+.banner-links{
+    width: 100%;
+    margin:3px;
+    padding: 10px;
+    display: flex;
+
+    
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+}
+
+.links{
+    display: none;
+
+}
+.top-banner > .logo > a > img{
+    padding:5px;
+    padding-top: 10px;
+}

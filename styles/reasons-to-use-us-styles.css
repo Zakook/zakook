@@ -1,0 +1,45 @@
+.main-body > .reasons-to-use-us{
+    font-family: 'Roboto', sans-serif;
+    color:yellow;
+    background-color: royalblue;
+    font-size: 2em;
+}
+.main-body > .reasons-to-use-us > .deliver{
+    border-style: solid;
+    border-width: 1px;
+    text-align:left;
+    padding: 5px;
+}
+.main-body > .reasons-to-use-us > .used-stuff{
+    border-style: solid;
+    border-width: 1px;
+    text-align:center;
+    padding: 5px;
+}
+.main-body > .reasons-to-use-us > .sanitized{
+    border-style: solid;
+    border-width: 1px;
+    text-align:right;
+    padding: 5px;
+}
+
+.homemade-wrapper{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+    background-color:whitesmoke;
+
+    border:5px dotted black;
+    margin: 5px;
+}
+
+.homemade{
+    font-size:5em;
+}
+
+.small-print{
+    font-size: 0.6rem;
+    padding-bottom: 5px;
+}
